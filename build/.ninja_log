@@ -1,0 +1,21 @@
+# ninja log v6
+40	328	7919932225917825	CMakeFiles/demo.dir/classes/Square.cpp.obj	d0c2089765ecb08e
+28	337	7919932225797837	CMakeFiles/demo.dir/classes/BitHolder.cpp.obj	98dc43c368e1b06b
+25	340	7919932225757835	CMakeFiles/demo.dir/classes/Bit.cpp.obj	57c5168cee64dd8b
+9	493	7919932225607819	CMakeFiles/demo.dir/imgui/imgui_demo.cpp.obj	d07cfa49af7fd55f
+14	569	7919932225657819	CMakeFiles/demo.dir/imgui/imgui_tables.cpp.obj	de51b16ee60f54cb
+12	641	7919932225627827	CMakeFiles/demo.dir/imgui/imgui_draw.cpp.obj	d56243e4f6dfa150
+18	742	7919932225687830	CMakeFiles/demo.dir/imgui/imgui_widgets.cpp.obj	e581234159642446
+59	754	7919932226107823	CMakeFiles/demo.dir/main_win32.cpp.obj	55d56d86ce26713
+331	760	7919932228817832	CMakeFiles/demo.dir/imgui/imgui_impl_win32.cpp.obj	40336305d0e6d5ab
+57	787	7919932226077821	CMakeFiles/demo.dir/imgui/imgui_impl_dx11.cpp.obj	7ee8417d7402db07
+43	805	7919932225937841	CMakeFiles/demo.dir/classes/ChessSquare.cpp.obj	facab2ac9a536d9e
+21	991	7919932225727834	CMakeFiles/demo.dir/imgui/imgui.cpp.obj	b12854a1dc696818
+45	1053	7919932225967849	CMakeFiles/demo.dir/classes/Grid.cpp.obj	84f7d7eebdf0186a
+53	2023	7919932226047820	CMakeFiles/demo.dir/classes/Othello.cpp.obj	ef31f410626e866a
+6	2086	7919932225567800	CMakeFiles/demo.dir/Application.cpp.obj	9f51174f09b140f7
+32	2105	7919932225827828	CMakeFiles/demo.dir/classes/Game.cpp.obj	96ae7cfa2b2c36af
+50	2111	7919932226017820	CMakeFiles/demo.dir/classes/Checkers.cpp.obj	2f855c402f878b0c
+48	2135	7919932225987822	CMakeFiles/demo.dir/classes/TicTacToe.cpp.obj	5da5d039dc678b1
+36	2296	7919932225867829	CMakeFiles/demo.dir/classes/Sprite.cpp.obj	f9ad397cf6f232d2
+2296	2742	7919932248480947	demo.exe	835ea351975a99eb
