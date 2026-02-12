@@ -97,6 +97,12 @@
 },
 {
   "directory": "C:/Users/sammi/Downloads/UCSC/W2026/CMPM123/connect-4-123/build",
+  "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\classes\\Connect4.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\sammi\\Downloads\\UCSC\\W2026\\CMPM123\\connect-4-123\\classes\\Connect4.cpp",
+  "file": "C:/Users/sammi/Downloads/UCSC/W2026/CMPM123/connect-4-123/classes/Connect4.cpp",
+  "output": "C:/Users/sammi/Downloads/UCSC/W2026/CMPM123/connect-4-123/build/CMakeFiles/demo.dir/classes/Connect4.cpp.obj"
+},
+{
+  "directory": "C:/Users/sammi/Downloads/UCSC/W2026/CMPM123/connect-4-123/build",
   "command": "C:\\PROGRA~1\\MIB055~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\demo.dir\\imgui\\imgui_impl_dx11.cpp.obj /FdCMakeFiles\\demo.dir\\ /FS -c C:\\Users\\sammi\\Downloads\\UCSC\\W2026\\CMPM123\\connect-4-123\\imgui\\imgui_impl_dx11.cpp",
   "file": "C:/Users/sammi/Downloads/UCSC/W2026/CMPM123/connect-4-123/imgui/imgui_impl_dx11.cpp",
   "output": "C:/Users/sammi/Downloads/UCSC/W2026/CMPM123/connect-4-123/build/CMakeFiles/demo.dir/imgui/imgui_impl_dx11.cpp.obj"
